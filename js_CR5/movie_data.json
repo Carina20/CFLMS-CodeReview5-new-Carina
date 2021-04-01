@@ -1,0 +1,49 @@
+var movieA = `[{
+	"name":"Forrest Gump",
+	"description":"Heart-warming must-see when you want to get an insight into US history of the 20th century, legendary soundtrack included",
+	"image":"img_CR5/Forrest_Gump.jpg",
+	"likes": 0,
+	"image_button":"img_CR5/thumb_up.jpg"
+},{
+	"name":"Frida",
+	"description":"Salma Hayek in this picture about the extraordinary <br> Mexican woman, powerful as her paintings",
+	"image":"img_CR5/Frida.jpg",
+	"likes": 3,
+	"image_button":"img_CR5/thumb_up.jpg"
+},{
+	"name":"Indien",
+	"description":"Movie Indien description",
+	"image":"img_CR5/Indien.jpg",
+	"likes": 0,
+	"image_button":"img_CR5/thumb_up.jpg"
+},{
+	"name":"Komm, süßer Tod",
+	"description":"Movie Komm.. description",
+	"image":"img_CR5/Komm_sueßer_Tod.jpg",
+	"likes": 5,
+	"image_button":"img_CR5/thumb_up.jpg"
+},{
+	"name":"Still Alice",
+	"description":"Movie Alice description",
+	"image":"img_CR5/Still_Alice.jpg",
+	"likes": 0,
+	"image_button":"img_CR5/thumb_up.jpg"
+},{
+	"name":"Grießnockerlaffäre",
+	"description":"Movie Nockerl description",
+	"image":"img_CR5/Grießnockerlaffaere.jpg",
+	"likes": 12,
+	"image_button":"img_CR5/thumb_up.jpg"
+},{
+	"name":"Crazy, Stupid, Love",
+	"description":"Movie Crazy.. description",
+	"image":"img_CR5/Crazy_Stupid_Love.jpg",
+	"likes": 0,
+	"image_button":"img_CR5/thumb_up.jpg"
+},{
+	"name":"Breaking Dawn",
+	"description":"Movie Breaking.. description",
+	"image":"img_CR5/Breaking_Dawn.jpg",
+	"likes": 55,
+	"image_button":"img_CR5/thumb_up.jpg"
+}]` 

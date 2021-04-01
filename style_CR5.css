@@ -1,0 +1,89 @@
+body {
+	font-family: Castellar;
+}
+
+#movies{
+	display :flex;
+	justify-content: space-between;
+	flex-wrap: wrap;
+}
+
+header {
+	height: 100px;
+	background-color: black;
+}
+
+#div_h1 {
+	text-align: center;
+}
+
+h1 { 
+	font-size: 50pt;
+	color: white;
+	padding-top: 10px;
+	position: absolute, center;
+	margin-top: 0px;
+}
+
+nav {
+	height: 50px;
+	background-color: grey;
+	font-size: 25pt;
+	font-family: Calibri Light;
+}
+
+nav > a {
+	color: white;
+	text-decoration: none;
+	padding-left: 20px;
+	margin-top: 5px;
+	position: absolute;
+	font-weight: bold;
+}
+
+main {
+	background-color: rgb(255,255,102);
+	font-family: Calibri Light;
+}
+
+#Heading2AndSort {
+	text-align: center;
+}
+
+h2 {
+	font-size: 40px;
+	display: inline-block;
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
+
+#SortAndSymbol {
+	float: right;
+	margin-top: 40px;
+	margin-right: 10px;
+	font-weight: bold;
+	font-size: 25px;
+	color: rgb(77,77,77);
+}
+
+#movie_container {
+	display: flex;
+	flex-flow: column;
+	padding-bottom: 20px;
+	display: inline-block;
+}
+
+footer {
+	background-color: black;
+	text-align: center;
+	height: 100px;
+}
+
+h3 {
+	color: white;
+	font-size: 30px;
+	padding-top: 30px;
+	margin-top: 0px;
+}
+
+/*----------------------------media query---------------------------------------------------------*/
